@@ -1,0 +1,65 @@
+[
+  {
+    "data": "2020-05-05",
+    "operazione": "entrata",
+    "descrizione_documento": "seconda rata donazione di cui al protocollo di intesa del 18/03/2020",
+    "importo": 8464339.1,
+    "note": ""
+  },
+  {
+    "data": "2020-05-05",
+    "operazione": "uscita",
+    "descrizione_documento": "trasferimento seconda rata donazione di cui al protocollo di intesa al commissario straordinario",
+    "importo": 8464339.1,
+    "note": ""
+  },
+  {
+    "data": "2020-05-14",
+    "operazione": "entrata",
+    "descrizione_documento": "donazione finalizzata - fondazione irccs policlinico san matteo di pavia. progetto plasma iperimmune.",
+    "importo": 1016459,
+    "note": ""
+  },
+  {
+    "data": "2020-05-22",
+    "operazione": "entrata",
+    "descrizione_documento": "donazione finalizzata Ð fondazione irccs policlinico san matteo di pavia. progetto plasma iperimmune.",
+    "importo": 13385,
+    "note": ""
+  },
+  {
+    "data": "2020-06-04",
+    "operazione": "entrata",
+    "descrizione_documento": "prima rata donazione di cui al protocollo di intesa del 18/03/2020",
+    "importo": 79982260.9,
+    "note": ""
+  },
+  {
+    "data": "2020-06-04",
+    "operazione": "uscita",
+    "descrizione_documento": "trasferimento prima rata donazione di cui al protocollo di intesa al commissario straordinario",
+    "importo": 79982260.9,
+    "note": ""
+  },
+  {
+    "data": "2020-09-06",
+    "operazione": "uscita",
+    "descrizione_documento": "bonifico prima rata prot. n. 33743 Ð fondazione irccs policlinico san matteo di pavia. progetto plasma iperimmune.",
+    "importo": 514922,
+    "note": ""
+  },
+  {
+    "data": "2021-03-26",
+    "operazione": "uscita",
+    "descrizione_documento": "saldo alla chiusura del conto corrente con versamento nel conto di tesoreria intestato alla pcm per la successiva riassegnazione nel capitolo di spesa del cr 13 del bilancio autonomo della presidenza del consiglio dei ministri",
+    "importo": 520078,
+    "note": ""
+  },
+  {
+    "data": "",
+    "operazione": "entrata",
+    "descrizione_documento": "interessi alla chiusura c.c.",
+    "importo": 5156,
+    "note": "chiusura conto"
+  }
+]

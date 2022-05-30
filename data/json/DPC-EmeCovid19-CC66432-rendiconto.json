@@ -1,0 +1,37 @@
+[
+  {
+    "data": "2020-10-28",
+    "operazione": "uscita",
+    "descrizione_documento": "prot. n. dpc/covid/56615 -ordine di bonifico n. 1 nel conto di tesoreria 22330 intestato alla presidenza del consiglio dei ministri per la successiva riassegnazione al pertinente e dedicato capitolo 765 Cr 13 del bilancio autonomo della presidenza del consiglio dei ministri",
+    "importo": 6000000,
+    "note": ""
+  },
+  {
+    "data": "2021-01-26",
+    "operazione": "uscita",
+    "descrizione_documento": "prot. n. dpc/covid/4011 - ordine di bonifico n. 2 nel conto di tesoreria 22330 intestato alla presidenza del consiglio dei ministri per la successiva riassegnazione al pertinente e dedicato capitolo 765 Cr 13 del bilancio autonomo della presidenza del consiglio dei ministri",
+    "importo": 6000000,
+    "note": ""
+  },
+  {
+    "data": "2021-12-09",
+    "operazione": "uscita",
+    "descrizione_documento": "bonifico nel conto di tesoreria 22330 intestato alla presidenza del consiglio dei ministri per la successiva riassegnazione al pertinente e dedicato capitolo 765 Cr 13 del bilancio autonomo della presidenza del consiglio dei ministri",
+    "importo": 728498.7,
+    "note": ""
+  },
+  {
+    "data": "2020-04-07",
+    "operazione": "entrata",
+    "descrizione_documento": "donazione da parte del promotore della raccolta sempre con voi ex OCDPC n. n. 693/2020 come modificata dalla OCDPC n. 726/2020",
+    "importo": 5000000,
+    "note": ""
+  },
+  {
+    "data": "2020-04-07",
+    "operazione": "entrata",
+    "descrizione_documento": "donazioni per la raccolta sempre con voi",
+    "importo": 7728498.7,
+    "note": "dal 07/04/2020 al 03/12/2021"
+  }
+]
